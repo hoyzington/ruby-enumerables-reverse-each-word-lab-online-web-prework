@@ -9,6 +9,6 @@ end
 "Hello there, and how are you?"
 
 def rev(string)
-  array = string.scan(/\w+/)
+  array = string.scan(/\W+/)
 array
 end
