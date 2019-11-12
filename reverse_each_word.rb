@@ -8,3 +8,7 @@ end
 
 "Hello there, and how are you?"
 
+def rev(string)
+  array = string.scan(/\w/)
+array
+end
